@@ -1,7 +1,7 @@
 <?php
 
 /* 
-    جميع الحقوق محفوظة : t.me/zyzzzyz 
+    جميع الحقوق محفوظة : t.me/I9399k 
 */
 class Compositions 
 {
