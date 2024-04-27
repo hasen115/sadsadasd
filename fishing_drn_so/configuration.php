@@ -5,11 +5,11 @@ class Configuration
 {
     public static function token()
     {
-        return "7004257245:AAEjQ_5lSh13NqNEBR01m3oB-nYko5wcVVo";
+        return "7169936053:AAEssOyt8YkY9tR2xdGTmcm3NagxwlYMhb8";
     }
     public static function admin ()
     {
-        return 348759045;
+        return 1831369371;
     } 
     public static function admins ()
     {
